@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "library-a": "libs/library-a",
-    "library-b": "libs/library-b"
+    "library-b": "libs/library-b",
+    "library-c": "libs/library-c"
   }
 }

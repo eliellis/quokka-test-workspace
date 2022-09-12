@@ -17,7 +17,8 @@
     "baseUrl": ".",
     "paths": {
       "@test-quokka-workspace/library-a": ["libs/library-a/src/index.ts"],
-      "@test-quokka-workspace/library-b": ["libs/library-b/src/index.ts"]
+      "@test-quokka-workspace/library-b": ["libs/library-b/src/index.ts"],
+      "@test-quokka-workspace/library-c": ["libs/library-c/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
